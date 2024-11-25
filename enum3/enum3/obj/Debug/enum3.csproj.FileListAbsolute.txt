@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\enum3\enum3\bin\Debug\enum3.exe.config
+C:\Users\Muhammed\source\repos\enum3\enum3\bin\Debug\enum3.exe
+C:\Users\Muhammed\source\repos\enum3\enum3\bin\Debug\enum3.pdb
+C:\Users\Muhammed\source\repos\enum3\enum3\obj\Debug\enum3.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\enum3\enum3\obj\Debug\enum3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\enum3\enum3\obj\Debug\enum3.exe
+C:\Users\Muhammed\source\repos\enum3\enum3\obj\Debug\enum3.pdb

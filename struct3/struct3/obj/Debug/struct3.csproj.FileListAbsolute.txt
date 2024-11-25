@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\struct3\struct3\bin\Debug\struct3.exe.config
+C:\Users\Muhammed\source\repos\struct3\struct3\bin\Debug\struct3.exe
+C:\Users\Muhammed\source\repos\struct3\struct3\bin\Debug\struct3.pdb
+C:\Users\Muhammed\source\repos\struct3\struct3\obj\Debug\struct3.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\struct3\struct3\obj\Debug\struct3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\struct3\struct3\obj\Debug\struct3.exe
+C:\Users\Muhammed\source\repos\struct3\struct3\obj\Debug\struct3.pdb

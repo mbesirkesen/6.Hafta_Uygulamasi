@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\obj\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.csproj.AssemblyReference.cache
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\obj\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\bin\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.exe.config
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\bin\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.exe
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\bin\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.pdb
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\obj\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.exe
+C:\Users\Muhammed\source\repos\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3\obj\Debug\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler3.pdb

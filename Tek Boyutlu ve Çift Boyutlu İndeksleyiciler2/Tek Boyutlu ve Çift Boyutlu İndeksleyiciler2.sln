@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tek Boyutlu ve Çift Boyutlu İndeksleyiciler2", "Tek Boyutlu ve Çift Boyutlu İndeksleyiciler2\Tek Boyutlu ve Çift Boyutlu İndeksleyiciler2.csproj", "{82438B64-785A-4196-90F4-0480D5D56269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82438B64-785A-4196-90F4-0480D5D56269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82438B64-785A-4196-90F4-0480D5D56269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82438B64-785A-4196-90F4-0480D5D56269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82438B64-785A-4196-90F4-0480D5D56269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9566A44-886B-4DB5-96DA-0B531BD4AF1A}
+	EndGlobalSection
+EndGlobal
